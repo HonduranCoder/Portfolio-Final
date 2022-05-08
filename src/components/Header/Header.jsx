@@ -51,7 +51,7 @@ export default function Header() {
               spacing={4}
               display={{ base: 'none', md: 'flex' }}
             >
-              <Link to={'/profile'} underline="none">
+              <Link to={'/'} underline="none">
                 Home
               </Link>
               <Link to={'/projects'} underline="none">
