@@ -11,11 +11,11 @@ export default function App() {
       <Router>
         <Header />
         <Switch>
+          <Route exact path="/">
+            <Profile />
+          </Route>
           <Route exact path="/projects">
             <Projects />
-          </Route>
-          <Route exact path="/profile">
-            <Profile />
           </Route>
           <Route exact path="/resume">
             <Resume />
