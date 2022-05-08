@@ -1,0 +1,42 @@
+[
+  {
+    "image": "https://images.unsplash.com/photo-1537498425277-c283d32ef9db?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2356&q=80",
+    "title": "The Engineer",
+    "subtitle": "I exist and I write code.",
+    "about": "I am a Full-Stack JavaScript Engineer who loves to build end-to-end products including product concept, planning, design, development, testing, and deployment.",
+    "smallImage": "https://images.unsplash.com/photo-1507290439931-a861b5a38200?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2232&q=80",
+    "note": "Software Engineer"
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1527352675495-d54e8f102689?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2340&q=80",
+    "title": "The Team Leader",
+    "subtitle": "A team is a group of people who trust each other.",
+    "about": "I have met many amazing individuals in tech and I know that this journey has been supported by an inspiring community. I have worked on many teams, and I find myself a natural leader, organizer, and delegator.",
+    "smallImage": "https://images.unsplash.com/photo-1569517282132-25d22f4573e6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2166&q=80",
+    "note": "Team Leader"
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1587586291914-bdbe84ec1416?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2340&q=80",
+    "title": "The Idealist",
+    "subtitle": "Fostering Diverse Thinking in a Multicultural Workplace",
+    "about": "I have worked on multiple development teams that all had members with different backgrounds and different experiences. This has made me grow as a person and a developer.",
+    "smallImage": "https://images.unsplash.com/photo-1558470598-a5dda9640f68?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2342&q=80",
+    "note": "Diversity"
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1590598687530-581406de2262?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2340&q=80",
+    "title": "The Bibliophile",
+    "subtitle": "Reading gives us someplace to go when we have to stay where we are.",
+    "about": "I love to read everything, from nonfiction & fiction to comic books & manga to poetry & short stories. Our dog Mia is named after the main character in the Nevernight Trilogy.",
+    "smallImage": "https://images.unsplash.com/photo-1575709527142-a93ed587bb83?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1664&q=80",
+    "note": "Imagination"
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1576379392292-1c898ea31764?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2340&q=80",
+    "title": "The Wanderer",
+    "subtitle": "I haven't been everywhere but it's on my list.",
+    "about": "I love to travel. Seeing the world, meeting new people, and eating new food are a source of joy in my life. My favorite place is Iceland and my favorite place there is the ice caves. My favorite food there was the Skyr.",
+    "smallImage": "https://images.unsplash.com/photo-1614730321146-b6fa6a46bcb4?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2274&q=80",
+    "note": "Wanderlust"
+  }
+]

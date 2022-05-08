@@ -1,0 +1,58 @@
+[
+  {
+    "image": "https://images.unsplash.com/photo-1569396116180-210c182bedb8?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2338&q=80",
+    "project": "Code.Pals",
+    "headline": "Peer Programming App",
+    "link": "https://codepals.netlify.app/",
+    "github": "https://github.com/code-pals/code.pals-fe"
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1583511666445-775f1f2116f5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1376&q=80",
+    "project": "Dog Match",
+    "headline": "Full-Stack CRUD app built in React and NodeJS",
+    "link": "https://dog-match-app.netlify.app/",
+    "github": "https://github.com/Dog-Match"
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1514782831304-632d84503f6f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1635&q=80",
+    "project": "HLPR",
+    "headline": "Find people to help with everyday tasks.",
+    "link": "https://hlpr.netlify.app/",
+    "github": "https://github.com/HLPR-APP/HLPR"
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1588287028941-99e3c7601d0e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1372&q=80",
+    "project": "BOOKR",
+    "headline": "Book Recommendations",
+    "link": "https://bookrecommendations.github.io/BookApp/",
+    "github": "https://github.com/BookRecommendations/BookApp"
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1593340010859-83edd3d6d13f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2352&q=80",
+    "project": "Juice-Books",
+    "headline": "Back-end Project of SQL Tables for Books",
+    "link": "https://github.com/ACL-Juice-Books/Juice-Books",
+    "github": "https://github.com/ACL-Juice-Books/Juice-Books"
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1607274134639-043342705e6f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1372&q=80",
+    "project": "NestJS vs Express",
+    "headline": "Back-end Project to implement NestJS",
+    "link": "https://nest-typeorm-be.herokuapp.com/",
+    "github": "https://github.com/HonduranCoder/Nest-Framework-1"
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1559259952-c945e1f3f262?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2340&q=80",
+    "project": "50 Projects 50 Days",
+    "headline": "Syntax Practice",
+    "link": "https://hondurancoder.github.io/50LP/",
+    "github": "https://github.com/HonduranCoder/50LP"
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1611605698335-8b1569810432?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2274&q=80",
+    "project": "Tech Twitter",
+    "headline": "Resources & Learning in Public",
+    "link": "https://twitter.com/HonduranCoder",
+    "github": "https://github.com/HonduranCoder"
+  }
+]
