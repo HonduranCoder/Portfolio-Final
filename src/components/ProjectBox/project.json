@@ -7,21 +7,21 @@
     "github": "https://github.com/code-pals/code.pals-fe"
   },
   {
-    "image": "https://images.unsplash.com/photo-1583511666445-775f1f2116f5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1376&q=80",
+    "image": "https://images.unsplash.com/photo-1598134493179-51332e56807f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2338&q=80",
     "project": "Dog Match",
     "headline": "Full-Stack CRUD app built in React and NodeJS",
     "link": "https://dog-match-app.netlify.app/",
     "github": "https://github.com/Dog-Match"
   },
   {
-    "image": "https://images.unsplash.com/photo-1514782831304-632d84503f6f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1635&q=80",
+    "image": "https://images.unsplash.com/photo-1591620454612-5b2f160660df?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2214&q=80",
     "project": "HLPR",
     "headline": "Find people to help with everyday tasks.",
     "link": "https://hlpr.netlify.app/",
     "github": "https://github.com/HLPR-APP/HLPR"
   },
   {
-    "image": "https://images.unsplash.com/photo-1588287028941-99e3c7601d0e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1372&q=80",
+    "image": "https://images.unsplash.com/photo-1632224835156-022d24bcc2f3?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2342&q=80",
     "project": "BOOKR",
     "headline": "Book Recommendations",
     "link": "https://bookrecommendations.github.io/BookApp/",
@@ -35,7 +35,7 @@
     "github": "https://github.com/ACL-Juice-Books/Juice-Books"
   },
   {
-    "image": "https://images.unsplash.com/photo-1607274134639-043342705e6f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1372&q=80",
+    "image": "https://images.unsplash.com/photo-1571167803867-35463fb8aa01?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2340&q=80",
     "project": "NestJS vs Express",
     "headline": "Back-end Project to implement NestJS",
     "link": "https://nest-typeorm-be.herokuapp.com/",
