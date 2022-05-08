@@ -9,8 +9,14 @@ import {
   useColorMode,
   IconButton,
 } from '@chakra-ui/react';
-import { BrowserRouter as Router, Link } from 'react-router-dom';
-import { MoonIcon, SunIcon, HamburgerIcon, CloseIcon } from '@chakra-ui/icons';
+import { Link } from 'react-router-dom';
+import {
+  MoonIcon,
+  SunIcon,
+  HamburgerIcon,
+  CloseIcon,
+  AddIcon,
+} from '@chakra-ui/icons';
 
 const Links = ['Profile', 'Projects', 'Resume'];
 
@@ -73,29 +79,17 @@ export default function Header() {
           <Box pb={4} display={{ md: 'none' }}>
             <Stack as={'nav'} spacing={4}>
               <Link to={'/'} underline="none"></Link>
-              <Link to={'/create'} underline="none">
-                Create
+              <Link to={'/'} underline="none">
+                Profile
               </Link>
 
-              <Link to={'/results'} underline="none">
-                Search
+              <Link to={'/projects'} underline="none">
+                Projects
               </Link>
 
-              <Link to={'/chatrooms'} underline="none">
-                Chat
+              <Link to={'/resume'} underline="none">
+                Resume
               </Link>
-              <Link to={'/aboutus'} underline="none">
-                About Us
-              </Link>
-              {!user.github ? (
-                <Link to={'/login'} underline="none">
-                  Login
-                </Link>
-              ) : (
-                <Link to={'/'} underline="none" onClick={logOut}>
-                  Logout
-                </Link>
-              )}
             </Stack>
           </Box>
         ) : null}
