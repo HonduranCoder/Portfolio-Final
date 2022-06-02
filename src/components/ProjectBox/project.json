@@ -1,5 +1,12 @@
 [
   {
+    "image": "https://images.unsplash.com/photo-1646697525995-4f526a708939?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1428&q=80",
+    "project": "Smart Shopping App",
+    "headline": "Find people to help with everyday tasks.",
+    "link": "https://tcl-41-smart-shopping-list.web.app/add-item",
+    "github": "https://github.com/the-collab-lab/tcl-41-smart-shopping-list"
+  },
+  {
     "image": "https://images.unsplash.com/photo-1569396116180-210c182bedb8?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2338&q=80",
     "project": "Code.Pals",
     "headline": "Peer Programming App",
@@ -28,6 +35,20 @@
     "github": "https://github.com/BookRecommendations/BookApp"
   },
   {
+    "image": "https://images.unsplash.com/photo-1604667070723-a2da9cd743d0?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1374&q=80",
+    "project": "SaraBOT",
+    "headline": "SlackBot to help remote workers connect.",
+    "link": "https://hondurancoder.github.io/SlackAppPage/",
+    "github": "https://github.com/Co-Lab-You-Belong-in-Tech/SaraBot"
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1611605698335-8b1569810432?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2274&q=80",
+    "project": "Tech Twitter",
+    "headline": "Resources & Learning in Public",
+    "link": "https://twitter.com/HonduranCoder",
+    "github": "https://github.com/HonduranCoder"
+  },
+  {
     "image": "https://images.unsplash.com/photo-1593340010859-83edd3d6d13f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2352&q=80",
     "project": "Juice-Books",
     "headline": "Back-end Project of SQL Tables for Books",
@@ -47,12 +68,5 @@
     "headline": "Syntax Practice",
     "link": "https://hondurancoder.github.io/50LP/",
     "github": "https://github.com/HonduranCoder/50LP"
-  },
-  {
-    "image": "https://images.unsplash.com/photo-1611605698335-8b1569810432?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2274&q=80",
-    "project": "Tech Twitter",
-    "headline": "Resources & Learning in Public",
-    "link": "https://twitter.com/HonduranCoder",
-    "github": "https://github.com/HonduranCoder"
   }
 ]
