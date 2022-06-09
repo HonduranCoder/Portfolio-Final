@@ -1,8 +1,8 @@
 [
   {
-    "image": "https://images.unsplash.com/photo-1646697525995-4f526a708939?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1428&q=80",
+    "image": "https://images.unsplash.com/photo-1561009809-dc544ca90bd0?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2148&q=80",
     "project": "Smart Shopping App",
-    "headline": "Learns your shopping habits.",
+    "headline": "Find people to help with everyday tasks.",
     "link": "https://tcl-41-smart-shopping-list.web.app/add-item",
     "github": "https://github.com/the-collab-lab/tcl-41-smart-shopping-list"
   },
@@ -35,7 +35,7 @@
     "github": "https://github.com/BookRecommendations/BookApp"
   },
   {
-    "image": "https://images.unsplash.com/photo-1604667070723-a2da9cd743d0?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1374&q=80",
+    "image": "https://images.unsplash.com/photo-1640367169401-534dec442631?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2340&q=80",
     "project": "SaraBOT",
     "headline": "SlackBot to help remote workers connect.",
     "link": "https://hondurancoder.github.io/SlackAppPage/",
@@ -70,3 +70,4 @@
     "github": "https://github.com/HonduranCoder/50LP"
   }
 ]
+
